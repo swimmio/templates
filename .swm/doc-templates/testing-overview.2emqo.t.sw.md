@@ -19,9 +19,7 @@ To run the tests, you first need to configure the user and password.
 
 You can then use the following commands to run tests:
 
-```
-yarn test
-```
+`yarn test`
 
 ## Writing tests
 
