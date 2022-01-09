@@ -21,7 +21,8 @@ We define our configuration values in { add a file or directory, use the "/path"
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Add a snippet of the declaration of { the example configuration value }
 
 <br/>
 
@@ -31,7 +32,8 @@ We define our configuration values in { add a file or directory, use the "/path"
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+An example showing how the new configuration value can be used by application code
 
 <br/>
 
@@ -41,7 +43,8 @@ We define our configuration values in { add a file or directory, use the "/path"
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+A full example of what should be done when adding a new configuration value to the project
 
 <br/>
 
