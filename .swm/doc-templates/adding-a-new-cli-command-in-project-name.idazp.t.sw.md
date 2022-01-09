@@ -15,7 +15,8 @@ We use the { add library name with link} library to implement the generic CLI lo
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet that shows where { Command Name } is defined.
 
 <br/>
 
@@ -23,7 +24,8 @@ Every command has to be { integrated / imported / exported } in { add a prerequi
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet that shows how { Command Name } is integrated / imported / exported to be recognized by the CLI framework.
 
 <br/>
 
@@ -31,7 +33,8 @@ Every command has a corresponding { file / module / function } for implementatio
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet that shows where { Command Name } logic is implemented.
 
 <br/>
 

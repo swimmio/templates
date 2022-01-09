@@ -41,7 +41,8 @@ Here's what `yarn build` doing behind the scenes:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet that shows where `yarn build` logic is implemented.
 
 <br/>
 
@@ -119,7 +120,8 @@ See package.json for full list of supported yarn scripts:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet from package.json that shows all the scripts
 
 <br/>
 

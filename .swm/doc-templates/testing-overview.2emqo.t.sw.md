@@ -29,7 +29,8 @@ You can then use the following commands to run tests:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+For example, in this test we...
 
 <br/>
 
@@ -43,7 +44,8 @@ A group of tests is called a "suite". We now have several test suites, each one 
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+For example, in this test - notice how we...
 
 <br/>
 
@@ -53,7 +55,8 @@ A group of tests is called a "suite". We now have several test suites, each one 
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+In this test, we...
 
 <br/>
 

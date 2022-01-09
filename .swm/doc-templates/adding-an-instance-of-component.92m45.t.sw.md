@@ -38,7 +38,8 @@ We first need to define our class in { mention relevant file }, and inherit from
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Add a snippet of the class definition of { Example Component }
 
 <br/>
 
@@ -54,7 +55,8 @@ Every { Component } should define these at the class level:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Add a snippet of the definitions of these variables / constants / types in { Example Component }
 
 <br/>
 
@@ -64,7 +66,8 @@ The goal of { first method } is to { explain what this method does }.
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Add a snippet of implementation of { first method } in { Example Component }
 
 <br/>
 
@@ -74,7 +77,8 @@ Every time we add a new { Component }, we reference it in a few locations:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Add snippets to a places where you need to update with new the new class
 
 <br/>
 
@@ -84,7 +88,8 @@ In this example we can see how our new { Component } can be used:
 
 <br/>
 
-
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Show a usage example of { Example Component }
 
 <br/>
 
