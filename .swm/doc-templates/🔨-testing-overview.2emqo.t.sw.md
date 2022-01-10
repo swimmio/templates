@@ -7,7 +7,7 @@ app_version: 0.7.1-1
 
 ## Testing Frameworks
 
-We use { framework } for unit tests, and { framework } for our end-to-end tests.
+We use [framework](#text-placeholder-id-8a18) for unit tests, and [framework](#text-placeholder-id-8a18) for our end-to-end tests.
 
 ## Running Tests Locally
 
@@ -25,7 +25,7 @@ You can then use the following commands to run tests:
 
 ### Assertions
 
-{ Add examples of common assertions used by tests }
+[Add examples of common assertions used by tests](#text-placeholder-id-4fc9)
 
 <br/>
 
@@ -38,9 +38,9 @@ For example, in this test we...
 
 When writing tests, we follow a few guidelines.
 
-A group of tests is called a "suite". We now have several test suites, each one aims to test a certain set of features in the app. For example, {path for a test file} tests the {feature's name} feature.
+A group of tests is called a "suite". We now have several test suites, each one aims to test a certain set of features in the app. For example, [path for a test file](#text-placeholder-id-473b) tests the [feature's name](#text-placeholder-id-4e5e) feature.
 
-{ Add specific best practices you would like to share }
+[Add specific best practices you would like to share](#text-placeholder-id-454f)
 
 <br/>
 
@@ -51,7 +51,7 @@ For example, in this test - notice how we...
 
 ## Different Types of Tests
 
-{ Add example of types of tests: unit, integration, frontend, end-to-end, etc. }
+[Add example of types of tests: unit, integration, frontend, end-to-end, etc.](#text-placeholder-id-47a5)
 
 <br/>
 

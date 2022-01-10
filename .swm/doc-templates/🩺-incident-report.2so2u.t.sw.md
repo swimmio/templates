@@ -9,23 +9,23 @@ Here is a list of guided questions that should make it easier to identify what h
 
 ## What Happened?
 
-{ Add a short description of what happened during this incident }
+[Add a short description of what happened during this incident](#text-placeholder-id-82cf)
 
 ## Who was Involved?
 
-{ Mention who was involved in debugging and investigating the issue, this can be anonymous as well, e.g engineers from this or that team }
+[Mention who was involved in debugging and investigating the issue, this can be anonymous as well, e.g engineers from this or that team](#text-placeholder-94b4)
 
 ## Who or What was Impacted?
 
-{ Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident }
+[Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident](#text-placeholder-82cf)
 
 ## What was the Root Cause?
 
-{ Describe the root cause for the incident }
+[Describe the root cause for the incident](#text-placeholder-43b0)
 
 ## How was It Reported?
 
-{ Describe how the issue was found, by whom it was reported, etc. }
+[Describe how the issue was found, by whom it was reported, etc.](#text-placeholder-8e10)
 
 ## When did It Happen?
 

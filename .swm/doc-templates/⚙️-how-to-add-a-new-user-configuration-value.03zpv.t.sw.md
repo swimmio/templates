@@ -7,28 +7,28 @@ app_version: 0.7.1-1
 
 ## Why is This Important?
 
-{ List reasons why configurability is important, or what it is used for }
+[List reasons why configurability is important, or what it is used for](#text-placeholder-id-4b16)
 
-## What is "{ add an example configuration value }"?
+## What is "[add an example configuration value](#text-placeholder-id-4065)"?
 
-{ Describe an example configuration value, and some details on what it does }
+[Describe an example configuration value, and some details on what it does](#text-placeholder-id-9c33)
 
 In this document we will see how to make this value configurable (instead of constant in the code).
 
 ## Definition Example
 
-We define our configuration values in { add a file or directory, use the "/path" command }
+We define our configuration values in [add a file or directory, use the "/path" command](#text-placeholder-id-47d1)
 
 <br/>
 
 <!-- TEMPLATE-swimm-snippet-placeholder -->
-Add a snippet of the declaration of { the example configuration value }
+Add a snippet of the declaration of [the example configuration value](#text-placeholder-id-b54f)
 
 <br/>
 
 ## Usage Example
 
-{ Add an example of where the configurable value is used in the code }
+[Add an example of where the configurable value is used in the code](#text-placeholder-id-a44d)
 
 <br/>
 
@@ -39,7 +39,7 @@ An example showing how the new configuration value can be used by application co
 
 ## Updating an Existing Configuration Value
 
-{ Add any required migrations, or other actions, when updating an existing configuration value }
+[Add any required migrations, or other actions, when updating an existing configuration value](#text-placeholder-id-8a18)
 
 <br/>
 

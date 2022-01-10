@@ -5,9 +5,9 @@ file_version: 1.0.2
 app_version: 0.7.1-1
 ---
 
-The { Project Name } CLI is used for { add a general description }.
+The [Project Name](#text-placeholder-id-97b6) CLI is used for [add a general description](#text-placeholder-id-421e).
 
-We use the { add library name with link} library to implement the generic CLI logic. In this doc you will learn how the { Command Name } command was implemented.
+We use the [add library name with link](#text-placeholder-id-4e3a) library to implement the generic CLI logic. In this doc you will learn how the [Command Name](#text-placeholder-id-47a5) command was implemented.
 
 <br/>
 
@@ -16,25 +16,25 @@ We use the { add library name with link} library to implement the generic CLI lo
 <br/>
 
 <!-- TEMPLATE-swimm-snippet-placeholder -->
-Insert a snippet that shows where { Command Name } is defined.
+Insert a snippet that shows where [Command Name](#text-placeholder-id-47a5) is defined.
 
 <br/>
 
-Every command has to be { integrated / imported / exported } in { add a prerequisite location } in order to be recognized by the CLI framework.
-
-<br/>
-
-<!-- TEMPLATE-swimm-snippet-placeholder -->
-Insert a snippet that shows how { Command Name } is integrated / imported / exported to be recognized by the CLI framework.
-
-<br/>
-
-Every command has a corresponding { file / module / function } for implementation.
+Every command has to be [integrated / imported / exported](#text-placeholder-id-4c96) in [add a prerequisite location](#text-placeholder-id-43ec) in order to be recognized by the CLI framework.
 
 <br/>
 
 <!-- TEMPLATE-swimm-snippet-placeholder -->
-Insert a snippet that shows where { Command Name } logic is implemented.
+Insert a snippet that shows how [Command Name](#text-placeholder-id-47a5) is integrated / imported / exported to be recognized by the CLI framework.
+
+<br/>
+
+Every command has a corresponding [file / module / function](#text-placeholder-id-c7da) for implementation.
+
+<br/>
+
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Insert a snippet that shows where [Command Name](#text-placeholder-id-47a5) logic is implemented.
 
 <br/>
 

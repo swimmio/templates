@@ -59,7 +59,7 @@ Error! Cannot execute command (...) "need executable 'ar' to convert dir to deb"
 
 ## Windows additional steps
 
-{ Insert additional steps here }
+[Insert additional steps here](#text-placeholder-e77d)
 
 <br/>
 
