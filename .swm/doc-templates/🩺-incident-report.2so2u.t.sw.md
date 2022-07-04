@@ -17,7 +17,7 @@ Here is a list of guided questions that should make it easier to identify what h
 
 ## Who or What was Impacted?
 
-[Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident](#text-placeholder-id-82cf)
+[Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident](#text-placeholder-id-b363)
 
 ## What was the Root Cause?
 
