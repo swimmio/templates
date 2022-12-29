@@ -7,27 +7,27 @@ app_version: 0.7.1-1
 
 Here is a list of guided questions that should make it easier to identify what happened and what we can do better.
 
-## What Happened?
+## What happened?
 
-[Add a short description of what happened during this incident](#text-placeholder-id-82cf)
+{{Add a short description of what happened during this incident}}
 
-## Who was Involved?
+## Who was involved?
 
-[Mention who was involved in debugging and investigating the issue, this can be anonymous as well, e.g engineers from this or that team](#text-placeholder-id-94b4)
+{{Mention who was involved in debugging and investigating the issue, this can be anonymous as well, e.g engineers from this or that team}}
 
-## Who or What was Impacted?
+## Who or what was impacted?
 
-[Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident](#text-placeholder-id-b363)
+{{Explain and quantify (if possible) the damage caused by this incident, e.g., users couldn't perform a certain task during the incident}}
 
-## What was the Root Cause?
+## What was the root cause?
 
-[Describe the root cause for the incident](#text-placeholder-id-43b0)
+{{Describe the root cause for the incident}}
 
-## How was It Reported?
+## How was it reported?
 
-[Describe how the issue was found, by whom it was reported, etc.](#text-placeholder-id-8e10)
+{{Describe how the issue was found, by whom it was reported, etc.}}
 
-## When did It Happen?
+## When did it happen?
 
 *   Service degradation start: 20YY-MM-DD HH:MM:SS UTC
     
