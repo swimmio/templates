@@ -1,6 +1,6 @@
 ---
 id: pqkt3
-name: 🛠 Dev Environment Setup
+name: Dev Environment Setup
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---

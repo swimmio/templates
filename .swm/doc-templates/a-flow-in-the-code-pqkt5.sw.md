@@ -1,6 +1,6 @@
 ---
 id: pqkt5
-name: 🔀 A flow in th ecode
+name: A flow in th ecode
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---

@@ -1,6 +1,6 @@
 ---
 id: 92m45
-name: 🔘 How to add something
+name: How to add something
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
