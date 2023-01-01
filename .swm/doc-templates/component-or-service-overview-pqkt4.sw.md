@@ -20,8 +20,14 @@ Select an example of accessing this component/service
 
 <br/>
 
-## Main contributors
-{{Mention the main contributors to this module}}
+## Directory structure
+{{Use `/path` and mention the main folders within this component/service}}
+
+## Design decisions
+{{Explain key design decisions}}
+
+## Glossary
+Here are some important terms to know:
 
 <br/>
 
