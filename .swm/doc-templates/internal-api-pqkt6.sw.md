@@ -25,6 +25,13 @@ Show a simple example of using this API
 
 <br/>
 
+## Advanced usage: {{explain a scenario where this is needed}}
+<br/>
+<!-- TEMPLATE-swimm-snippet-placeholder -->
+Show an advanced example of using this API
+
+<br/>
+
 ## Best practices and additional notes
 When using this API, it is important to follow a few best practices and avoid some common mistakes.
 
