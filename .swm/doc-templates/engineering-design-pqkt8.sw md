@@ -15,7 +15,7 @@ app_version: 0.7.1-1
 Main KPIs of this feature
 
 ## High level design
-* Flow chart
+* {{Flow chart - Use `/mermaid` to add a flow chart}}
 * DB changes
 * UI components
 * What is stored (e.g., in the state, local storage...)
