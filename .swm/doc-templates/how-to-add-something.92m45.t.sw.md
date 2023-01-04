@@ -18,6 +18,7 @@ Some examples of {{SOMETHING}}s are {{examples}}.`
 We'll follow the implementation of {{EXAMPLE (an instance of the SOMETHING, e.g., a sub-class)}} for this example.
 
 Every time we add a new instance, we follow these steps:
+
 <br/>
 
 <!-- TEMPLATE-swimm-snippet-placeholder -->
