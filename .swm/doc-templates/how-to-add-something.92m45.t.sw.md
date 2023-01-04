@@ -19,6 +19,7 @@ We'll follow the implementation of {{EXAMPLE (an instance of the SOMETHING, e.g.
 
 Every time we add a new instance, we follow these steps:
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Add a snippet of the first step needed to implement the EXAMPLE
 
