@@ -1,17 +1,17 @@
 ---
 id: 2emqo
-name: 🔨 Testing Overview
+name: Testing Overview
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
 
-## Testing Frameworks
+## Testing frameworks
 
-We use [framework](#text-placeholder-id-8a18) for unit tests, and [framework](#text-placeholder-id-8a18) for our end-to-end tests.
+We use {{UNITTEST FRAMEWORK (e.g., jest)}} for unit tests, and {{E2E FRAMEWORK (e.g., cypress)}} for our end-to-end tests.
 
-## Running Tests Locally
+## Running tests locally
 
-### Configure Automation User and Password
+### Configure automation user and password
 
 To run the tests, you first need to configure the user and password.
 
@@ -25,7 +25,7 @@ You can then use the following commands to run tests:
 
 ### Assertions
 
-[Add examples of common assertions used by tests](#text-placeholder-id-4fc9)
+{{Add examples of common assertions used by tests}}
 
 <br/>
 
@@ -38,7 +38,7 @@ For example, in this test we...
 
 When writing tests, we follow a few guidelines.
 
-A group of tests is called a "suite". We now have several test suites, each one aims to test a certain set of features in the app. For example, [path for a test file](#text-placeholder-id-473b) tests the [feature's name](#text-placeholder-id-4e5e) feature.
+A group of tests is called a "suite". We now have several test suites, each one aims to test a certain set of features in the app. For example, {{path for a test file}} tests the {{feature's name}} feature.
 
 [Add specific best practices you would like to share](#text-placeholder-id-454f)
 
@@ -46,12 +46,6 @@ A group of tests is called a "suite". We now have several test suites, each one 
 
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 For example, in this test - notice how we...
-
-<br/>
-
-## Different Types of Tests
-
-[Add example of types of tests: unit, integration, frontend, end-to-end, etc.](#text-placeholder-id-47a5)
 
 <br/>
 

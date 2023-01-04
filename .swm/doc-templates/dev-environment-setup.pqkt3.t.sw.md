@@ -1,6 +1,6 @@
 ---
 id: pqkt3
-name: 🛠 Dev Environment Setup
+name: Dev Environment Setup
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
@@ -15,10 +15,8 @@ To run your local dev environment you will need a few things on your machine. Fo
     
 *   Install an IDE (preferably [VS Code](https://code.visualstudio.com/))
     
-*   Install git (if you don't already have it on your machine).
+*   Install Git (if you don't already have it on your machine).
     
-*   Install [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
-
 <br/>
 
 ## Getting the sources
@@ -59,8 +57,6 @@ Error! Cannot execute command (...) "need executable 'ar' to convert dir to deb"
 <br/>
 
 ## Windows additional steps
-
-[Insert additional steps here](#text-placeholder-id-e77d)
 
 <br/>
 
