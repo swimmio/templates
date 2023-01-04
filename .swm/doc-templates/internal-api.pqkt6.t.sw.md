@@ -13,20 +13,25 @@ We use this API when {{use cases}}.
 ## API definition
 
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Select snippets of the various function's definition, so the reader can understand where the API is implemented
 
 <br/>
 
 ## Simple usage
+
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Show a simple example of using this API
 
 <br/>
 
 ## Advanced usage: {{explain a scenario where this is needed}}
+
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Show an advanced example of using this API
 
@@ -36,6 +41,7 @@ Show an advanced example of using this API
 When using this API, it is important to follow a few best practices and avoid some common mistakes.
 
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Show an example of a best practice and explain why it is important to implement the API this way
 

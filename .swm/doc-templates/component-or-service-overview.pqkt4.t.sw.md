@@ -15,6 +15,7 @@ The main features of {{COMPONENT NAME}} are:
 {{How can this component/service be accessed?}}
 
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Select an example of accessing this component/service
 

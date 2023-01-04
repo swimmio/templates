@@ -40,7 +40,7 @@ When writing tests, we follow a few guidelines.
 
 A group of tests is called a "suite". We now have several test suites, each one aims to test a certain set of features in the app. For example, {{path for a test file}} tests the {{feature's name}} feature.
 
-[Add specific best practices you would like to share](#text-placeholder-id-454f)
+{{Add specific best practices you would like to share}}
 
 <br/>
 

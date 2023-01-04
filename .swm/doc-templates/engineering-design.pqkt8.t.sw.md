@@ -14,7 +14,23 @@ app_version: 0.7.1-1
 Main KPIs of this feature
 
 ## High level design
-* {{Flow chart - Use `/mermaid` to add a flow chart}}
+* {{Flow chart, like this one}}
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
+sequenceDiagram
+Service A->>+Service B: GET /objects/{id}
+Service B-->>Service A: 200 OK (object)
+Service A->>+Service C: GET /data/{object\_internal\_id}
+<br/>Service C-->>Service A: 200 OK
+```
+<!--MCONTENT {content: "sequenceDiagram<br/>\nService A->>+Service B: GET /objects/{id}\n\nService B\\-\\-\\>>Service A: 200 OK (object)<br/>\nService A->>+Service C: GET /data/{object\\_internal\\_id}<br/>\n<br/>Service C\\-\\-\\>>Service A: 200 OK<br/>"} --->
+
+<br/>
+
+
 * DB changes
 * UI components
 * What is stored (e.g., in the state, local storage...)

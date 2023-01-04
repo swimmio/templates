@@ -1,6 +1,6 @@
 ---
 id: pqkt5
-name: A flow in th ecode
+name: A flow in the code
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
@@ -11,6 +11,7 @@ This doc describes the {{SUBJECT}} flow in our system. We will follow its implem
 ## Following the flow
 
 <br/>
+
 <!-- TEMPLATE-swimm-snippet-placeholder -->
 Select the first step where the flow begins - e.g., the entry point, or an API call.
 
