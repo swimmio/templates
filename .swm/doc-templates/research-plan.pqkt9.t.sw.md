@@ -1,6 +1,6 @@
 ---
 id: pqkt9
-name: Research Plan
+name: Research plan
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---

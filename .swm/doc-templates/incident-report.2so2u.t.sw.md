@@ -1,6 +1,6 @@
 ---
 id: 2so2u
-name: Incident Report
+name: Incident report
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
