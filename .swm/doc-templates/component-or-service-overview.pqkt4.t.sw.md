@@ -1,6 +1,6 @@
 ---
 id: pqkt4
-name: Component or Service Overview
+name: Component or service overview
 file_version: 1.0.2
 app_version: 0.7.1-1
 ---
